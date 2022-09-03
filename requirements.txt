@@ -1,0 +1,5 @@
+json
+requests
+fake_useragent
+prettytable
+beautifulsoup4
